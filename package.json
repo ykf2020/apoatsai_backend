@@ -1,0 +1,24 @@
+{
+  "name": "apoatsai_backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ykf2020/apoatsai_backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ykf2020/apoatsai_backend/issues"
+  },
+  "homepage": "https://github.com/ykf2020/apoatsai_backend#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "mariadb": "^3.1.1"
+  }
+}
